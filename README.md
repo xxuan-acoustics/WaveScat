@@ -1,8 +1,7 @@
-# WST-X-Series: Wavelet Scattering Transform for Interpretable Speech Deepfake Detection
+# WaveScat: Wavelet Scattering Front-Ends with Self-Supervised Features for Speech Deepfake Detection
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.02980v1-b31b1b.svg)](https://arxiv.org/abs/2602.02980)
 
-Submitted to a journal
 
 ![Spectrogram](Demo/spectrogram.png)
 
@@ -85,9 +84,9 @@ To quantitatively substantiate the interpretability of the WST-X front-end, we p
 If you find our repository valuable for your work, please consider citing our paper:
 
 ```bibtex
-@misc{xuan2026wstxserieswaveletscattering,
-      title={WST-X Series: Wavelet Scattering Transform for Interpretable Speech Deepfake Detection}, 
-      author={Xi Xuan and others},
+@misc{xuan2026wavescatwaveletscatteringfrontends,
+      title={WaveScat: Wavelet Scattering Front-Ends with Self-Supervised Features for Speech Deepfake Detection}, 
+      author={Xi Xuan and Davide Carbone and Wenxin Zhang and Tomi H. Kinnunen},
       year={2026},
       eprint={2602.02980},
       archivePrefix={arXiv},
